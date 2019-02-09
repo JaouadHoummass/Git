@@ -15,6 +15,11 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
     }
     
+    override func didReceiveMemoryWarning() {
+        <#code#>
+    }
+    
+    
     override func viewDidAppear(_ animated: Bool) {
         <#code#>
     }
@@ -22,6 +27,8 @@ class ViewController: UIViewController {
     override func viewDidDisappear(_ animated: Bool) {
         <#code#>
     }
+    
+    
 
     
 }
